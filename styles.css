@@ -1,0 +1,36 @@
+ body {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+  padding: 20px;
+  text-align: left;
+}
+
+h2 {
+  color: blue;
+  font-size: 50px;
+}
+
+h3 {
+  top: -250px;
+  text-align: left;
+}
+
+.cities {
+  color: grey;
+  padding: 20px;
+}
+
+.temperature {
+  color: blue;
+}
+
+.weekdays {
+  color: orange;
+}
+
+p {
+  color: grey;
+}
